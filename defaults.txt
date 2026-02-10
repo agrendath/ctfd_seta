@@ -1,10 +1,4 @@
-Current credentials:
-admin account username: adminuser2
-admin account password: adminuser2
-admin account email: adminuser2@gmail.com
-
-
-Previous (before ctfd bugs):
+Admin Credentials:
 admin account username: admin
 admin account password: I7AuxCjU%lytkW#b
 admin account email: admin@example.com
